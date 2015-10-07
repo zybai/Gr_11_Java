@@ -1,0 +1,11 @@
+One Piece is the greatest treasure of all time
+It is hidden on an island
+Your job, is to guess which island One Piece is hidden on
+Islands are named by numbers
+You must guess within the range of numbers
+Where One Piece is hidden
+Don't worry, there will be people helping you along your adventure
+They will tell you whether your guess is too high or too low
+After entering the number, press the guess button
+And hope you were right!
+Try beating yourself by having as few tries as possible!

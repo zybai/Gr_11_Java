@@ -1,0 +1,17 @@
+Instruction/ rule
+There are 3 levels in the game
+In each level there are 5 questions with increasing level
+of difficulty.
+Player must answer the question by SELECTING the
+"right" answer. 
+If the answer is right, then the player recieves a 
+chance to roll the dice which will generate a random number
+between 1-3.
+The number that is generated is the number of steps the player will move
+If the answer is wrong,then the next question appears. 
+You'll win the level by getting to the end of the board before all
+5 questions are answered.
+WARNING: You'll lose the game even if you answered all 5 questions 
+correctly but not lucky enough to get to the end point. 
+WARNING2:You are not allowed to leave the game once you started, even
+when level changes.
